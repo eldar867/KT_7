@@ -19,7 +19,7 @@
 ```bash
 make run # запускает сервер и сборку
 
-```
+```npm run start
 
 ## Задача 1
 
@@ -123,3 +123,7 @@ make run # запускает сервер и сборку
     <h3 class="card-text text-success">Цена в ₽</h3>
  </div>
 ```
+
+Запуск на Windows:
+В одной командной строке: node bin/server.js
+В другой: npm run dev
